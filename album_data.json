@@ -1,0 +1,3601 @@
+{
+    "href": "https://api.spotify.com/v1/me/albums?offset=0&limit=20",
+    "items": [
+        {
+            "added_at": "2018-05-24T06:40:11Z",
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                        "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                        "name": "Bring Me The Horizon",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                    }
+                ],
+                "available_markets": [
+                    "AR",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "EC",
+                    "GT",
+                    "HN",
+                    "MX",
+                    "NI",
+                    "PA",
+                    "PE",
+                    "PY",
+                    "SV",
+                    "US",
+                    "UY"
+                ],
+                "copyrights": [
+                    {
+                        "text": "2013 Sony Music Entertainment UK Limited. Under exclusive license to Epitaph",
+                        "type": "C"
+                    },
+                    {
+                        "text": "2013 Sony Music Entertainment UK Limited. Under exclusive license to Epitaph",
+                        "type": "P"
+                    }
+                ],
+                "external_ids": {
+                    "upc": "0045778727063"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4dhfdOEUI4tfqwdgouFTQA"
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/albums/4dhfdOEUI4tfqwdgouFTQA",
+                "id": "4dhfdOEUI4tfqwdgouFTQA",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f0e49b9bd7ca3dc5510611c7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f0e49b9bd7ca3dc5510611c7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f0e49b9bd7ca3dc5510611c7",
+                        "width": 64
+                    }
+                ],
+                "label": "Epitaph",
+                "name": "Sempiternal (Deluxe Edition)",
+                "popularity": 67,
+                "release_date": "2013-04-02",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/albums/4dhfdOEUI4tfqwdgouFTQA/tracks?offset=0&limit=50",
+                    "items": [
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 227296,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/1PInWkBARsxLyouDqa2GtF"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/1PInWkBARsxLyouDqa2GtF",
+                            "id": "1PInWkBARsxLyouDqa2GtF",
+                            "is_local": false,
+                            "name": "Can You Feel My Heart",
+                            "preview_url": "https://p.scdn.co/mp3-preview/0ca9050333b05b2137989769cde51e23a5888f1d?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 1,
+                            "type": "track",
+                            "uri": "spotify:track:1PInWkBARsxLyouDqa2GtF"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 205152,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/77aRSy9dTVpG9naxEDd7n6"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/77aRSy9dTVpG9naxEDd7n6",
+                            "id": "77aRSy9dTVpG9naxEDd7n6",
+                            "is_local": false,
+                            "name": "The House Of Wolves",
+                            "preview_url": "https://p.scdn.co/mp3-preview/64db882802e91e775ad8a953f09ee14839b475bf?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 2,
+                            "type": "track",
+                            "uri": "spotify:track:77aRSy9dTVpG9naxEDd7n6"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 225699,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5giMf8Tgw5QUtZ4mCCiKOE"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5giMf8Tgw5QUtZ4mCCiKOE",
+                            "id": "5giMf8Tgw5QUtZ4mCCiKOE",
+                            "is_local": false,
+                            "name": "Empire (Let Them Sing)",
+                            "preview_url": "https://p.scdn.co/mp3-preview/0a7c643d1c09b3c94df044398168d0317a07aec2?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 3,
+                            "type": "track",
+                            "uri": "spotify:track:5giMf8Tgw5QUtZ4mCCiKOE"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 230090,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0ShUX5LYFHltP8T7PxRhRm"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0ShUX5LYFHltP8T7PxRhRm",
+                            "id": "0ShUX5LYFHltP8T7PxRhRm",
+                            "is_local": false,
+                            "name": "Sleepwalking",
+                            "preview_url": "https://p.scdn.co/mp3-preview/4ef61018b8ac5957bb5f131fe6be0f1cafdb552d?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 4,
+                            "type": "track",
+                            "uri": "spotify:track:0ShUX5LYFHltP8T7PxRhRm"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 242995,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/4cT6fZLzLcdBnKUoTPwrNL"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/4cT6fZLzLcdBnKUoTPwrNL",
+                            "id": "4cT6fZLzLcdBnKUoTPwrNL",
+                            "is_local": false,
+                            "name": "Go To Hell, For Heaven's Sake",
+                            "preview_url": "https://p.scdn.co/mp3-preview/f457641ad971414d47cb541adf4405f9f21f2ab2?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 5,
+                            "type": "track",
+                            "uri": "spotify:track:4cT6fZLzLcdBnKUoTPwrNL"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 242977,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0z4sFQ2yzLbjzSsNC5qAkD"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0z4sFQ2yzLbjzSsNC5qAkD",
+                            "id": "0z4sFQ2yzLbjzSsNC5qAkD",
+                            "is_local": false,
+                            "name": "Shadow Moses",
+                            "preview_url": "https://p.scdn.co/mp3-preview/a61b85bf7f2c75eaf142eab12d9616a01a97817c?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 6,
+                            "type": "track",
+                            "uri": "spotify:track:0z4sFQ2yzLbjzSsNC5qAkD"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 301941,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/35xAZwCzE58O6EXbzgTSxc"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/35xAZwCzE58O6EXbzgTSxc",
+                            "id": "35xAZwCzE58O6EXbzgTSxc",
+                            "is_local": false,
+                            "name": "And The Snakes Start To Sing",
+                            "preview_url": "https://p.scdn.co/mp3-preview/516a960ad7b9140ec488e3ae3177bb3a81a7eb1f?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 7,
+                            "type": "track",
+                            "uri": "spotify:track:35xAZwCzE58O6EXbzgTSxc"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 247412,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5wHCaqKWrcMkyY7wFHZ2xF"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5wHCaqKWrcMkyY7wFHZ2xF",
+                            "id": "5wHCaqKWrcMkyY7wFHZ2xF",
+                            "is_local": false,
+                            "name": "Seen It All Before",
+                            "preview_url": "https://p.scdn.co/mp3-preview/607fb7d467ccd8dc1a41befa01ed6e32698994bb?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 8,
+                            "type": "track",
+                            "uri": "spotify:track:5wHCaqKWrcMkyY7wFHZ2xF"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 193637,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0VGXyzdRuqnpk5Tz2mRdlx"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0VGXyzdRuqnpk5Tz2mRdlx",
+                            "id": "0VGXyzdRuqnpk5Tz2mRdlx",
+                            "is_local": false,
+                            "name": "Antivist",
+                            "preview_url": "https://p.scdn.co/mp3-preview/1517d7bca8b9654cf63b1926ab00c5c47a535810?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 9,
+                            "type": "track",
+                            "uri": "spotify:track:0VGXyzdRuqnpk5Tz2mRdlx"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 214955,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/1do4LtVHFwn6uaIKspj6Pb"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/1do4LtVHFwn6uaIKspj6Pb",
+                            "id": "1do4LtVHFwn6uaIKspj6Pb",
+                            "is_local": false,
+                            "name": "Crooked Young",
+                            "preview_url": "https://p.scdn.co/mp3-preview/215439ac9be05423af83da1f70930f1ce3d7f018?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 10,
+                            "type": "track",
+                            "uri": "spotify:track:1do4LtVHFwn6uaIKspj6Pb"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 404257,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/3cJP8wmNuRkq58Z2cQPB81"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/3cJP8wmNuRkq58Z2cQPB81",
+                            "id": "3cJP8wmNuRkq58Z2cQPB81",
+                            "is_local": false,
+                            "name": "Hospital For Souls",
+                            "preview_url": "https://p.scdn.co/mp3-preview/978ae0edc8ff0f823165446146e73e97c8fd2b72?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 11,
+                            "type": "track",
+                            "uri": "spotify:track:3cJP8wmNuRkq58Z2cQPB81"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 185298,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/3v6bRk0ucDjixSkdeiYASg"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/3v6bRk0ucDjixSkdeiYASg",
+                            "id": "3v6bRk0ucDjixSkdeiYASg",
+                            "is_local": false,
+                            "name": "Join The Club",
+                            "preview_url": "https://p.scdn.co/mp3-preview/855ef0c24a610720cf64efe795bd6c8d46473702?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 12,
+                            "type": "track",
+                            "uri": "spotify:track:3v6bRk0ucDjixSkdeiYASg"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 240839,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/2VoxEmEJ96ZTT06u2x9yuE"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/2VoxEmEJ96ZTT06u2x9yuE",
+                            "id": "2VoxEmEJ96ZTT06u2x9yuE",
+                            "is_local": false,
+                            "name": "Chasing Rainbows",
+                            "preview_url": "https://p.scdn.co/mp3-preview/2c43b300c0c9511b49e6e6d788cf4fa77918e38e?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 13,
+                            "type": "track",
+                            "uri": "spotify:track:2VoxEmEJ96ZTT06u2x9yuE"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                                    "name": "Bring Me The Horizon",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
+                                }
+                            ],
+                            "available_markets": [
+                                "AR",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "EC",
+                                "GT",
+                                "HN",
+                                "MX",
+                                "NI",
+                                "PA",
+                                "PE",
+                                "PY",
+                                "SV",
+                                "US",
+                                "UY"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 297026,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0Ih0wjhs1c56howQQimAAA"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0Ih0wjhs1c56howQQimAAA",
+                            "id": "0Ih0wjhs1c56howQQimAAA",
+                            "is_local": false,
+                            "name": "Deathbeds",
+                            "preview_url": "https://p.scdn.co/mp3-preview/39c1ab2ac65f1fb473f436e09cf1947911cb6a09?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 14,
+                            "type": "track",
+                            "uri": "spotify:track:0Ih0wjhs1c56howQQimAAA"
+                        }
+                    ],
+                    "limit": 50,
+                    "next": null,
+                    "offset": 0,
+                    "previous": null,
+                    "total": 14
+                },
+                "type": "album",
+                "uri": "spotify:album:4dhfdOEUI4tfqwdgouFTQA"
+            }
+        },
+        {
+            "added_at": "2018-05-24T06:31:48Z",
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                        "id": "67f7GZXNMGRn98lqrtIdrN",
+                        "name": "Comeback Kid",
+                        "type": "artist",
+                        "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                    }
+                ],
+                "available_markets": [
+                    "CA"
+                ],
+                "copyrights": [
+                    {
+                        "text": "2005 Smallman Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "2005 Smallman Records",
+                        "type": "P"
+                    }
+                ],
+                "external_ids": {
+                    "upc": "778632902909"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/albums/12E474LltJ7NCZD2L2kvR0",
+                "id": "12E474LltJ7NCZD2L2kvR0",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aa93dbef31c8dbb759166517",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aa93dbef31c8dbb759166517",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aa93dbef31c8dbb759166517",
+                        "width": 64
+                    }
+                ],
+                "label": "Warner Music Canada",
+                "name": "Wake The Dead",
+                "popularity": 29,
+                "release_date": "2005-04-12",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/albums/12E474LltJ7NCZD2L2kvR0/tracks?offset=0&limit=50",
+                    "items": [
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 158480,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0SKag5Gidf3uq2z9F2yllf"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0SKag5Gidf3uq2z9F2yllf",
+                            "id": "0SKag5Gidf3uq2z9F2yllf",
+                            "is_local": false,
+                            "name": "False Idols Fall",
+                            "preview_url": "https://p.scdn.co/mp3-preview/7e34584f10dc5fab2398374109ab2691feec7ce0?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 1,
+                            "type": "track",
+                            "uri": "spotify:track:0SKag5Gidf3uq2z9F2yllf"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 138093,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/2PTVGhfCvt9ovCDJeES0VA"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/2PTVGhfCvt9ovCDJeES0VA",
+                            "id": "2PTVGhfCvt9ovCDJeES0VA",
+                            "is_local": false,
+                            "name": "My Other Side",
+                            "preview_url": "https://p.scdn.co/mp3-preview/8a07c26dad80a07d396c5904a810d051fadceb9c?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 2,
+                            "type": "track",
+                            "uri": "spotify:track:2PTVGhfCvt9ovCDJeES0VA"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 197226,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0Ux0LyZRoLFiXfyKZtt6IE",
+                            "id": "0Ux0LyZRoLFiXfyKZtt6IE",
+                            "is_local": false,
+                            "name": "Wake the Dead",
+                            "preview_url": "https://p.scdn.co/mp3-preview/ed2bfa048bc7670377871fd70fc86068838dbcf0?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 3,
+                            "type": "track",
+                            "uri": "spotify:track:0Ux0LyZRoLFiXfyKZtt6IE"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 112360,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0T7UhH6ZbfUnBH3DZY8YMi"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0T7UhH6ZbfUnBH3DZY8YMi",
+                            "id": "0T7UhH6ZbfUnBH3DZY8YMi",
+                            "is_local": false,
+                            "name": "The Trouble I Love",
+                            "preview_url": "https://p.scdn.co/mp3-preview/3abb6e5bd0ff7fb9fadd22daf5459523b598bf8d?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 4,
+                            "type": "track",
+                            "uri": "spotify:track:0T7UhH6ZbfUnBH3DZY8YMi"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 114320,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/1aurgflWUXbC2Sp8f5Ct3Q"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/1aurgflWUXbC2Sp8f5Ct3Q",
+                            "id": "1aurgflWUXbC2Sp8f5Ct3Q",
+                            "is_local": false,
+                            "name": "Talk Is Cheap",
+                            "preview_url": "https://p.scdn.co/mp3-preview/83ce6454bac628040fec7a8318aea1a4a370ccce?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 5,
+                            "type": "track",
+                            "uri": "spotify:track:1aurgflWUXbC2Sp8f5Ct3Q"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 142093,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0Ne2NLr6FDZXz6U8NUzkm2"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0Ne2NLr6FDZXz6U8NUzkm2",
+                            "id": "0Ne2NLr6FDZXz6U8NUzkm2",
+                            "is_local": false,
+                            "name": "Partners in Crime",
+                            "preview_url": "https://p.scdn.co/mp3-preview/9f4988710e97404c19e72aa5f004be0f1867aec2?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 6,
+                            "type": "track",
+                            "uri": "spotify:track:0Ne2NLr6FDZXz6U8NUzkm2"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 112413,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/549bDx2HuNT5ouxCMDV431"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/549bDx2HuNT5ouxCMDV431",
+                            "id": "549bDx2HuNT5ouxCMDV431",
+                            "is_local": false,
+                            "name": "Our Distance",
+                            "preview_url": "https://p.scdn.co/mp3-preview/66b91a639ceba7b405df7255223e11effc70d156?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 7,
+                            "type": "track",
+                            "uri": "spotify:track:549bDx2HuNT5ouxCMDV431"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 141066,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5Vs7uhngIKSgnHj6KkvxQJ"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5Vs7uhngIKSgnHj6KkvxQJ",
+                            "id": "5Vs7uhngIKSgnHj6KkvxQJ",
+                            "is_local": false,
+                            "name": "Bright Lights Keep Shining",
+                            "preview_url": "https://p.scdn.co/mp3-preview/d8b66b107092d055120eda5d9565caf3b81b5063?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 8,
+                            "type": "track",
+                            "uri": "spotify:track:5Vs7uhngIKSgnHj6KkvxQJ"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 142546,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6SrOUvOY5XTa9k1dfMDEl0"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6SrOUvOY5XTa9k1dfMDEl0",
+                            "id": "6SrOUvOY5XTa9k1dfMDEl0",
+                            "is_local": false,
+                            "name": "Falling Apart",
+                            "preview_url": "https://p.scdn.co/mp3-preview/84f08adde0015c2c83275c5fb58d6d2faee937f5?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 9,
+                            "type": "track",
+                            "uri": "spotify:track:6SrOUvOY5XTa9k1dfMDEl0"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 136213,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5HWt9TcazlZwxrxfK61vfn"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5HWt9TcazlZwxrxfK61vfn",
+                            "id": "5HWt9TcazlZwxrxfK61vfn",
+                            "is_local": false,
+                            "name": "Losing Patience",
+                            "preview_url": "https://p.scdn.co/mp3-preview/81945e285657dad3851fdb9e60c745dad4383653?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 10,
+                            "type": "track",
+                            "uri": "spotify:track:5HWt9TcazlZwxrxfK61vfn"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/67f7GZXNMGRn98lqrtIdrN",
+                                    "id": "67f7GZXNMGRn98lqrtIdrN",
+                                    "name": "Comeback Kid",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:67f7GZXNMGRn98lqrtIdrN"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 154466,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/3AGyQWf4StniBDLlZQvZPp"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/3AGyQWf4StniBDLlZQvZPp",
+                            "id": "3AGyQWf4StniBDLlZQvZPp",
+                            "is_local": false,
+                            "name": "Final Goobye",
+                            "preview_url": "https://p.scdn.co/mp3-preview/fd673aa75962d0e8ef605f1bea035f968c30470c?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 11,
+                            "type": "track",
+                            "uri": "spotify:track:3AGyQWf4StniBDLlZQvZPp"
+                        }
+                    ],
+                    "limit": 50,
+                    "next": null,
+                    "offset": 0,
+                    "previous": null,
+                    "total": 11
+                },
+                "type": "album",
+                "uri": "spotify:album:12E474LltJ7NCZD2L2kvR0"
+            }
+        },
+        {
+            "added_at": "2016-12-24T21:16:44Z",
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                        "id": "1URnnhqYAYcrqrcwql10ft",
+                        "name": "21 Savage",
+                        "type": "artist",
+                        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                        "name": "Metro Boomin",
+                        "type": "artist",
+                        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AE",
+                    "AR",
+                    "AT",
+                    "AU",
+                    "BE",
+                    "BG",
+                    "BH",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "DZ",
+                    "EC",
+                    "EE",
+                    "EG",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IL",
+                    "IN",
+                    "IS",
+                    "IT",
+                    "JO",
+                    "JP",
+                    "KW",
+                    "LB",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MA",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "NZ",
+                    "OM",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PS",
+                    "PT",
+                    "PY",
+                    "QA",
+                    "RO",
+                    "SA",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TH",
+                    "TN",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY",
+                    "VN",
+                    "ZA"
+                ],
+                "copyrights": [
+                    {
+                        "text": "(C) 2016 Slaughter Gang",
+                        "type": "C"
+                    }
+                ],
+                "external_ids": {
+                    "upc": "886446010236"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b"
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/albums/4I3EcXD4e3KcEoDJfFEZ5b",
+                "id": "4I3EcXD4e3KcEoDJfFEZ5b",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732dd1ac4a61495080ef8f78ca",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022dd1ac4a61495080ef8f78ca",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512dd1ac4a61495080ef8f78ca",
+                        "width": 64
+                    }
+                ],
+                "label": "Slaughter Gang, LLC",
+                "name": "Savage Mode",
+                "popularity": 73,
+                "release_date": "2016-07-15",
+                "release_date_precision": "day",
+                "total_tracks": 9,
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/albums/4I3EcXD4e3KcEoDJfFEZ5b/tracks?offset=0&limit=50",
+                    "items": [
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 276466,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/2kE82JhBcoS7mimFO1SqqX"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/2kE82JhBcoS7mimFO1SqqX",
+                            "id": "2kE82JhBcoS7mimFO1SqqX",
+                            "is_local": false,
+                            "name": "No Advance",
+                            "preview_url": "https://p.scdn.co/mp3-preview/8e0685e6fef25d4c53c7a1b1e7733b70fc05198b?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 1,
+                            "type": "track",
+                            "uri": "spotify:track:2kE82JhBcoS7mimFO1SqqX"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 235040,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/4gmmRb6bZJffOOiww1JGTO",
+                            "id": "4gmmRb6bZJffOOiww1JGTO",
+                            "is_local": false,
+                            "name": "No Heart",
+                            "preview_url": "https://p.scdn.co/mp3-preview/9d8a25c6bfc33e641cdd5aa420beedbb41b08fc7?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 2,
+                            "type": "track",
+                            "uri": "spotify:track:4gmmRb6bZJffOOiww1JGTO"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+                                    "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                                    "name": "Future",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 258880,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6fwdbPMwP1zVStm8FybmkO",
+                            "id": "6fwdbPMwP1zVStm8FybmkO",
+                            "is_local": false,
+                            "name": "X (feat. Future)",
+                            "preview_url": "https://p.scdn.co/mp3-preview/378ccd78be223f579b885d1f1195d29948514f9f?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 3,
+                            "type": "track",
+                            "uri": "spotify:track:6fwdbPMwP1zVStm8FybmkO"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 249586,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/52hRcWmjRNFuVJv3Qi7EeF"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/52hRcWmjRNFuVJv3Qi7EeF",
+                            "id": "52hRcWmjRNFuVJv3Qi7EeF",
+                            "is_local": false,
+                            "name": "Savage Mode",
+                            "preview_url": "https://p.scdn.co/mp3-preview/554862d89fda0799583be840a67aec3959cf12c2?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 4,
+                            "type": "track",
+                            "uri": "spotify:track:52hRcWmjRNFuVJv3Qi7EeF"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 169493,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5TvdhNXoHbeGeWtjCYhFuy"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5TvdhNXoHbeGeWtjCYhFuy",
+                            "id": "5TvdhNXoHbeGeWtjCYhFuy",
+                            "is_local": false,
+                            "name": "Bad Guy",
+                            "preview_url": "https://p.scdn.co/mp3-preview/4d03475d0558a6173e79f543a108e7d04b3f9057?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 5,
+                            "type": "track",
+                            "uri": "spotify:track:5TvdhNXoHbeGeWtjCYhFuy"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 185466,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5V57eUQoTrMCZqonhzi8B9"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5V57eUQoTrMCZqonhzi8B9",
+                            "id": "5V57eUQoTrMCZqonhzi8B9",
+                            "is_local": false,
+                            "name": "Real Nigga",
+                            "preview_url": "https://p.scdn.co/mp3-preview/dc258774c462bb021fe322556adf68ea1364f487?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 6,
+                            "type": "track",
+                            "uri": "spotify:track:5V57eUQoTrMCZqonhzi8B9"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 180706,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6hEHxpZpvZwt1v4NoGwjKr"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6hEHxpZpvZwt1v4NoGwjKr",
+                            "id": "6hEHxpZpvZwt1v4NoGwjKr",
+                            "is_local": false,
+                            "name": "Mad High",
+                            "preview_url": "https://p.scdn.co/mp3-preview/f65f427814b57d5b91484a545d5de2f257cc1e79?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 7,
+                            "type": "track",
+                            "uri": "spotify:track:6hEHxpZpvZwt1v4NoGwjKr"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 163386,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/4ujX9kC3UUp26MG0tPhUCz"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/4ujX9kC3UUp26MG0tPhUCz",
+                            "id": "4ujX9kC3UUp26MG0tPhUCz",
+                            "is_local": false,
+                            "name": "Feel It",
+                            "preview_url": "https://p.scdn.co/mp3-preview/f1c7d545fbeb3a6959daa9a065bc9651fa1218d5?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 8,
+                            "type": "track",
+                            "uri": "spotify:track:4ujX9kC3UUp26MG0tPhUCz"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+                                    "id": "1URnnhqYAYcrqrcwql10ft",
+                                    "name": "21 Savage",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+                                    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+                                    "name": "Metro Boomin",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+                                }
+                            ],
+                            "available_markets": [
+                                "AD",
+                                "AE",
+                                "AR",
+                                "AT",
+                                "AU",
+                                "BE",
+                                "BG",
+                                "BH",
+                                "BO",
+                                "BR",
+                                "CA",
+                                "CH",
+                                "CL",
+                                "CO",
+                                "CR",
+                                "CY",
+                                "CZ",
+                                "DE",
+                                "DK",
+                                "DO",
+                                "DZ",
+                                "EC",
+                                "EE",
+                                "EG",
+                                "ES",
+                                "FI",
+                                "FR",
+                                "GB",
+                                "GR",
+                                "GT",
+                                "HK",
+                                "HN",
+                                "HU",
+                                "ID",
+                                "IE",
+                                "IL",
+                                "IN",
+                                "IS",
+                                "IT",
+                                "JO",
+                                "JP",
+                                "KW",
+                                "LB",
+                                "LI",
+                                "LT",
+                                "LU",
+                                "LV",
+                                "MA",
+                                "MC",
+                                "MT",
+                                "MX",
+                                "MY",
+                                "NI",
+                                "NL",
+                                "NO",
+                                "NZ",
+                                "OM",
+                                "PA",
+                                "PE",
+                                "PH",
+                                "PL",
+                                "PS",
+                                "PT",
+                                "PY",
+                                "QA",
+                                "RO",
+                                "SA",
+                                "SE",
+                                "SG",
+                                "SK",
+                                "SV",
+                                "TH",
+                                "TN",
+                                "TR",
+                                "TW",
+                                "US",
+                                "UY",
+                                "VN",
+                                "ZA"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 227880,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/1UyLFPOIG7E1OfamPQLOfD"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/1UyLFPOIG7E1OfamPQLOfD",
+                            "id": "1UyLFPOIG7E1OfamPQLOfD",
+                            "is_local": false,
+                            "name": "Ocean Drive",
+                            "preview_url": "https://p.scdn.co/mp3-preview/146c69b787d668fd4ae42bf1db770af35d2276bd?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 9,
+                            "type": "track",
+                            "uri": "spotify:track:1UyLFPOIG7E1OfamPQLOfD"
+                        }
+                    ],
+                    "limit": 50,
+                    "next": null,
+                    "offset": 0,
+                    "previous": null,
+                    "total": 9
+                },
+                "type": "album",
+                "uri": "spotify:album:4I3EcXD4e3KcEoDJfFEZ5b"
+            }
+        },
+        {
+            "added_at": "2016-12-24T20:27:17Z",
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                        "id": "0A0FS04o6zMoto8OKPsDwY",
+                        "name": "YG",
+                        "type": "artist",
+                        "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "copyrights": [
+                    {
+                        "text": "\u00a9 2016 Def Jam Recordings, a division of UMG Recordings, Inc.",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2016 Def Jam Recordings, a division of UMG Recordings, Inc.",
+                        "type": "P"
+                    }
+                ],
+                "external_ids": {
+                    "upc": "00602547996145"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz"
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/albums/4nwd6ernojhNIIRifDJoRz",
+                "id": "4nwd6ernojhNIIRifDJoRz",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e2accda06ebadfe3014c161b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e2accda06ebadfe3014c161b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e2accda06ebadfe3014c161b",
+                        "width": 64
+                    }
+                ],
+                "label": "Def Jam Recordings",
+                "name": "Still Brazy (Deluxe)",
+                "popularity": 65,
+                "release_date": "2016-06-17",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/albums/4nwd6ernojhNIIRifDJoRz/tracks?offset=0&limit=50",
+                    "items": [
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 14893,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5W0ptettzHPqH4lzlF66uf"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5W0ptettzHPqH4lzlF66uf",
+                            "id": "5W0ptettzHPqH4lzlF66uf",
+                            "is_local": false,
+                            "name": "Pops Hot Intro",
+                            "preview_url": null,
+                            "track_number": 1,
+                            "type": "track",
+                            "uri": "spotify:track:5W0ptettzHPqH4lzlF66uf"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/4qQ0W1Z8cxepU1IeaxDXPg"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/4qQ0W1Z8cxepU1IeaxDXPg",
+                                    "id": "4qQ0W1Z8cxepU1IeaxDXPg",
+                                    "name": "Sad Boy",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:4qQ0W1Z8cxepU1IeaxDXPg"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/4Maf38TSoYT83qXqsO20JI",
+                                    "id": "4Maf38TSoYT83qXqsO20JI",
+                                    "name": "AD",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:4Maf38TSoYT83qXqsO20JI"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/6WtTLIl6HLw0JI15Z3Ia8q",
+                                    "id": "6WtTLIl6HLw0JI15Z3Ia8q",
+                                    "name": "Bricc Baby",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:6WtTLIl6HLw0JI15Z3Ia8q"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 215573,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6iaEL3KYwAb1cUtdOjSxNl"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6iaEL3KYwAb1cUtdOjSxNl",
+                            "id": "6iaEL3KYwAb1cUtdOjSxNl",
+                            "is_local": false,
+                            "name": "Don't Come To LA",
+                            "preview_url": "https://p.scdn.co/mp3-preview/513a5ab8135e41f3dcd3ca711ae6c60f83814eb5?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 2,
+                            "type": "track",
+                            "uri": "spotify:track:6iaEL3KYwAb1cUtdOjSxNl"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 227666,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/20F9XLcFdWcI2yS74hHQ99",
+                            "id": "20F9XLcFdWcI2yS74hHQ99",
+                            "is_local": false,
+                            "name": "Who Shot Me?",
+                            "preview_url": "https://p.scdn.co/mp3-preview/29ac8aa08eb142a643c6a539f9a60d3852306c10?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 3,
+                            "type": "track",
+                            "uri": "spotify:track:20F9XLcFdWcI2yS74hHQ99"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1RXEL1MwAvaMsn7KAHe0g5"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1RXEL1MwAvaMsn7KAHe0g5",
+                                    "id": "1RXEL1MwAvaMsn7KAHe0g5",
+                                    "name": "Slim 400",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1RXEL1MwAvaMsn7KAHe0g5"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 196560,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/7nRTwoV1u3iQZ02FmvDsAM"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/7nRTwoV1u3iQZ02FmvDsAM",
+                            "id": "7nRTwoV1u3iQZ02FmvDsAM",
+                            "is_local": false,
+                            "name": "Word Is Bond",
+                            "preview_url": "https://p.scdn.co/mp3-preview/77a8874c3072c6bcf0ea7aa0b35984edb5a256d3?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 4,
+                            "type": "track",
+                            "uri": "spotify:track:7nRTwoV1u3iQZ02FmvDsAM"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 254520,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5A63MgoNPniM7necFglMhe"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5A63MgoNPniM7necFglMhe",
+                            "id": "5A63MgoNPniM7necFglMhe",
+                            "is_local": false,
+                            "name": "Twist My Fingaz",
+                            "preview_url": "https://p.scdn.co/mp3-preview/fa6aafa4d34011a8fd1b1af03f7ca64efb74ddf1?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 5,
+                            "type": "track",
+                            "uri": "spotify:track:5A63MgoNPniM7necFglMhe"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/5iHaEaeT1t9bKaVONfW3SC"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/5iHaEaeT1t9bKaVONfW3SC",
+                                    "id": "5iHaEaeT1t9bKaVONfW3SC",
+                                    "name": "Syke 800",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:5iHaEaeT1t9bKaVONfW3SC"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1SNUcHNKWy6p2Hu5YTQGMA"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1SNUcHNKWy6p2Hu5YTQGMA",
+                                    "id": "1SNUcHNKWy6p2Hu5YTQGMA",
+                                    "name": "Duce",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1SNUcHNKWy6p2Hu5YTQGMA"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/40HFcMUDVVCo0SI4BVEdIi"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/40HFcMUDVVCo0SI4BVEdIi",
+                                    "id": "40HFcMUDVVCo0SI4BVEdIi",
+                                    "name": "Marley Blu",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:40HFcMUDVVCo0SI4BVEdIi"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1xOwHKcbLyOSOm14pc4nWx"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1xOwHKcbLyOSOm14pc4nWx",
+                                    "id": "1xOwHKcbLyOSOm14pc4nWx",
+                                    "name": "Burnt Out",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1xOwHKcbLyOSOm14pc4nWx"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 38720,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/7v27WiEpo3B9jXItsZmoJW"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/7v27WiEpo3B9jXItsZmoJW",
+                            "id": "7v27WiEpo3B9jXItsZmoJW",
+                            "is_local": false,
+                            "name": "Good Times Interlude",
+                            "preview_url": "https://p.scdn.co/mp3-preview/22efa5cb1b8c9947eb1109c98027513fb0b407e8?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 6,
+                            "type": "track",
+                            "uri": "spotify:track:7v27WiEpo3B9jXItsZmoJW"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 166266,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/4kC5pcHI6bkqCgKemqdDmi"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/4kC5pcHI6bkqCgKemqdDmi",
+                            "id": "4kC5pcHI6bkqCgKemqdDmi",
+                            "is_local": false,
+                            "name": "Gimmie Got Shot",
+                            "preview_url": "https://p.scdn.co/mp3-preview/772e3e6caed32575c2fe38762aca043adbb8070b?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 7,
+                            "type": "track",
+                            "uri": "spotify:track:4kC5pcHI6bkqCgKemqdDmi"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+                                    "id": "55Aa2cqylxrFIXC767Z865",
+                                    "name": "Lil Wayne",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 218906,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6ifYmJxaQR3FHtxjcxjFp4"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6ifYmJxaQR3FHtxjcxjFp4",
+                            "id": "6ifYmJxaQR3FHtxjcxjFp4",
+                            "is_local": false,
+                            "name": "I Got A Question",
+                            "preview_url": "https://p.scdn.co/mp3-preview/37bbab09122abadb1af8c814ca28e21c29dbbb4e?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 8,
+                            "type": "track",
+                            "uri": "spotify:track:6ifYmJxaQR3FHtxjcxjFp4"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                                    "id": "3TVXtAsR1Inumwj472S9r4",
+                                    "name": "Drake",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/3XVpDdKav6C6zwlDXPhMEO",
+                                    "id": "3XVpDdKav6C6zwlDXPhMEO",
+                                    "name": "Kamaiyah",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:3XVpDdKav6C6zwlDXPhMEO"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 196600,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/39hnH8WdPmNT3Q3yzwC9Rg"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/39hnH8WdPmNT3Q3yzwC9Rg",
+                            "id": "39hnH8WdPmNT3Q3yzwC9Rg",
+                            "is_local": false,
+                            "name": "Why You Always Hatin?",
+                            "preview_url": "https://p.scdn.co/mp3-preview/5f4601586ec482ec8194357b285d3d78d4d420e6?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 9,
+                            "type": "track",
+                            "uri": "spotify:track:39hnH8WdPmNT3Q3yzwC9Rg"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/1RXEL1MwAvaMsn7KAHe0g5"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/1RXEL1MwAvaMsn7KAHe0g5",
+                                    "id": "1RXEL1MwAvaMsn7KAHe0g5",
+                                    "name": "Slim 400",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:1RXEL1MwAvaMsn7KAHe0g5"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 14093,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/3VdFW8GKw88ILB1Ezf1tqE"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/3VdFW8GKw88ILB1Ezf1tqE",
+                            "id": "3VdFW8GKw88ILB1Ezf1tqE",
+                            "is_local": false,
+                            "name": "My Perception",
+                            "preview_url": null,
+                            "track_number": 10,
+                            "type": "track",
+                            "uri": "spotify:track:3VdFW8GKw88ILB1Ezf1tqE"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 215800,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0UmV17gerlXy4V3wuOUWPo"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0UmV17gerlXy4V3wuOUWPo",
+                            "id": "0UmV17gerlXy4V3wuOUWPo",
+                            "is_local": false,
+                            "name": "Bool, Balm & Bollective",
+                            "preview_url": "https://p.scdn.co/mp3-preview/5463db1c3076da29532e3e56a7deec745a15249b?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 11,
+                            "type": "track",
+                            "uri": "spotify:track:0UmV17gerlXy4V3wuOUWPo"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/54QA4zjZDOyaLN8bVthBjP",
+                                    "id": "54QA4zjZDOyaLN8bVthBjP",
+                                    "name": "Joe Moses",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:54QA4zjZDOyaLN8bVthBjP"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/2l2o6ibYa7h1w4HwaS1uZV",
+                                    "id": "2l2o6ibYa7h1w4HwaS1uZV",
+                                    "name": "Jay 305",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:2l2o6ibYa7h1w4HwaS1uZV"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 237106,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0dRRNtK7aeF37E8BcnCHdM"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0dRRNtK7aeF37E8BcnCHdM",
+                            "id": "0dRRNtK7aeF37E8BcnCHdM",
+                            "is_local": false,
+                            "name": "She Wish She Was",
+                            "preview_url": "https://p.scdn.co/mp3-preview/fb8fe29ba7ad2a4b53a210a8b0c8e44095838869?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 12,
+                            "type": "track",
+                            "uri": "spotify:track:0dRRNtK7aeF37E8BcnCHdM"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/6zWpKBpfxA7WLufoySS14G"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/6zWpKBpfxA7WLufoySS14G",
+                                    "id": "6zWpKBpfxA7WLufoySS14G",
+                                    "name": "The Homegirl",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:6zWpKBpfxA7WLufoySS14G"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 4120,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/4pg63NS1RRUfmDG1xIp2qv"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/4pg63NS1RRUfmDG1xIp2qv",
+                            "id": "4pg63NS1RRUfmDG1xIp2qv",
+                            "is_local": false,
+                            "name": "YG Be Safe",
+                            "preview_url": null,
+                            "track_number": 13,
+                            "type": "track",
+                            "uri": "spotify:track:4pg63NS1RRUfmDG1xIp2qv"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 202520,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/5Uj2at1EGAaWCrLyEUuXBp"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/5Uj2at1EGAaWCrLyEUuXBp",
+                            "id": "5Uj2at1EGAaWCrLyEUuXBp",
+                            "is_local": false,
+                            "name": "Still Brazy",
+                            "preview_url": "https://p.scdn.co/mp3-preview/d8c0e6d11f0402b8ac94b92a37cd868309675878?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 14,
+                            "type": "track",
+                            "uri": "spotify:track:5Uj2at1EGAaWCrLyEUuXBp"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0EeQBlQJFiAfJeVN2vT9s0",
+                                    "id": "0EeQBlQJFiAfJeVN2vT9s0",
+                                    "name": "Nipsey Hussle",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0EeQBlQJFiAfJeVN2vT9s0"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 226640,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6k0DJqW2v2e4809Z1zN0YU"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6k0DJqW2v2e4809Z1zN0YU",
+                            "id": "6k0DJqW2v2e4809Z1zN0YU",
+                            "is_local": false,
+                            "name": "FDT",
+                            "preview_url": "https://p.scdn.co/mp3-preview/f3e0ded6e65e5eb48b2bac0775392edf1db9b1d1?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 15,
+                            "type": "track",
+                            "uri": "spotify:track:6k0DJqW2v2e4809Z1zN0YU"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                },
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/4qQ0W1Z8cxepU1IeaxDXPg"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/4qQ0W1Z8cxepU1IeaxDXPg",
+                                    "id": "4qQ0W1Z8cxepU1IeaxDXPg",
+                                    "name": "Sad Boy",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:4qQ0W1Z8cxepU1IeaxDXPg"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 250360,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/620VdAujudX2uvtWai7C81"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/620VdAujudX2uvtWai7C81",
+                            "id": "620VdAujudX2uvtWai7C81",
+                            "is_local": false,
+                            "name": "Blacks & Browns",
+                            "preview_url": "https://p.scdn.co/mp3-preview/0f8c1cf36d173c158d26ea0e15937b30862c2375?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 16,
+                            "type": "track",
+                            "uri": "spotify:track:620VdAujudX2uvtWai7C81"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                                    "id": "0A0FS04o6zMoto8OKPsDwY",
+                                    "name": "YG",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+                                }
+                            ],
+                            "available_markets": [
+                                "CA",
+                                "MX",
+                                "US"
+                            ],
+                            "disc_number": 1,
+                            "duration_ms": 199840,
+                            "explicit": true,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/1TExiMMbxdXMWXxA3iESJQ"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/1TExiMMbxdXMWXxA3iESJQ",
+                            "id": "1TExiMMbxdXMWXxA3iESJQ",
+                            "is_local": false,
+                            "name": "Police Get Away Wit Murder",
+                            "preview_url": "https://p.scdn.co/mp3-preview/7b570bb08d3fcc5cb2924d638c0289a0617c3d61?cid=650eb581dc3541d192f8d921d7db942c",
+                            "track_number": 17,
+                            "type": "track",
+                            "uri": "spotify:track:1TExiMMbxdXMWXxA3iESJQ"
+                        }
+                    ],
+                    "limit": 50,
+                    "next": null,
+                    "offset": 0,
+                    "previous": null,
+                    "total": 17
+                },
+                "type": "album",
+                "uri": "spotify:album:4nwd6ernojhNIIRifDJoRz"
+            }
+        },
+        {
+            "added_at": "2016-12-24T20:13:08Z",
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                        "id": "79hrYiudVcFyyxyJW0ipTy",
+                        "name": "The Paper Kites",
+                        "type": "artist",
+                        "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                    }
+                ],
+                "available_markets": [],
+                "copyrights": [
+                    {
+                        "text": "2015 The Paper Kites under exclusive license to Nettwerk Productions",
+                        "type": "C"
+                    },
+                    {
+                        "text": "2015 The Paper Kites under exclusive license to Nettwerk Productions",
+                        "type": "P"
+                    }
+                ],
+                "external_ids": {
+                    "upc": "0067003108751"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6WyFFJa3rKOeyAfIrDTYVC"
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/albums/6WyFFJa3rKOeyAfIrDTYVC",
+                "id": "6WyFFJa3rKOeyAfIrDTYVC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738e4d9562b4c8df8ce657e820",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028e4d9562b4c8df8ce657e820",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518e4d9562b4c8df8ce657e820",
+                        "width": 64
+                    }
+                ],
+                "label": "Nettwerk",
+                "name": "twelvefour",
+                "popularity": 0,
+                "release_date": "2015-08-28",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/albums/6WyFFJa3rKOeyAfIrDTYVC/tracks?offset=0&limit=50",
+                    "items": [
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 223520,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/2i3OiOmfc1CNnrkZ3WQ4qn"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/2i3OiOmfc1CNnrkZ3WQ4qn",
+                            "id": "2i3OiOmfc1CNnrkZ3WQ4qn",
+                            "is_local": false,
+                            "name": "Electric Indigo",
+                            "preview_url": null,
+                            "track_number": 1,
+                            "type": "track",
+                            "uri": "spotify:track:2i3OiOmfc1CNnrkZ3WQ4qn"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 235160,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/3W2d2U93ZJS5MfAddHmRJ2"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/3W2d2U93ZJS5MfAddHmRJ2",
+                            "id": "3W2d2U93ZJS5MfAddHmRJ2",
+                            "is_local": false,
+                            "name": "Renegade",
+                            "preview_url": null,
+                            "track_number": 2,
+                            "type": "track",
+                            "uri": "spotify:track:3W2d2U93ZJS5MfAddHmRJ2"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 261026,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/1uJeFnjgSLOqdToROSUkqM"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/1uJeFnjgSLOqdToROSUkqM",
+                            "id": "1uJeFnjgSLOqdToROSUkqM",
+                            "is_local": false,
+                            "name": "Bleed Confusion",
+                            "preview_url": null,
+                            "track_number": 3,
+                            "type": "track",
+                            "uri": "spotify:track:1uJeFnjgSLOqdToROSUkqM"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 262266,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6ImXXU2QZg4eHSyYqu3UYM"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6ImXXU2QZg4eHSyYqu3UYM",
+                            "id": "6ImXXU2QZg4eHSyYqu3UYM",
+                            "is_local": false,
+                            "name": "Revelator Eyes",
+                            "preview_url": null,
+                            "track_number": 4,
+                            "type": "track",
+                            "uri": "spotify:track:6ImXXU2QZg4eHSyYqu3UYM"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 263306,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/53ZHICysS9cXI3iODbQ0Ve"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/53ZHICysS9cXI3iODbQ0Ve",
+                            "id": "53ZHICysS9cXI3iODbQ0Ve",
+                            "is_local": false,
+                            "name": "Neon Crimson",
+                            "preview_url": null,
+                            "track_number": 5,
+                            "type": "track",
+                            "uri": "spotify:track:53ZHICysS9cXI3iODbQ0Ve"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 212706,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0pEoxRwnWGOvp25Z9HOH2O"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0pEoxRwnWGOvp25Z9HOH2O",
+                            "id": "0pEoxRwnWGOvp25Z9HOH2O",
+                            "is_local": false,
+                            "name": "I'm Lying to You Cause I'm Lost",
+                            "preview_url": null,
+                            "track_number": 6,
+                            "type": "track",
+                            "uri": "spotify:track:0pEoxRwnWGOvp25Z9HOH2O"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 263826,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/6Cp11Q0wdNUFlB8wAtSaUX"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/6Cp11Q0wdNUFlB8wAtSaUX",
+                            "id": "6Cp11Q0wdNUFlB8wAtSaUX",
+                            "is_local": false,
+                            "name": "A Silent Cause",
+                            "preview_url": null,
+                            "track_number": 7,
+                            "type": "track",
+                            "uri": "spotify:track:6Cp11Q0wdNUFlB8wAtSaUX"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 285453,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/4gWwbwOS2UPyFwVsstqUPj"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/4gWwbwOS2UPyFwVsstqUPj",
+                            "id": "4gWwbwOS2UPyFwVsstqUPj",
+                            "is_local": false,
+                            "name": "Woke up from a Dream",
+                            "preview_url": null,
+                            "track_number": 8,
+                            "type": "track",
+                            "uri": "spotify:track:4gWwbwOS2UPyFwVsstqUPj"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 233706,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/0IomYs9tq0RK0bfAdqxs3U"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/0IomYs9tq0RK0bfAdqxs3U",
+                            "id": "0IomYs9tq0RK0bfAdqxs3U",
+                            "is_local": false,
+                            "name": "Turns Within Me, Turns Without Me",
+                            "preview_url": null,
+                            "track_number": 9,
+                            "type": "track",
+                            "uri": "spotify:track:0IomYs9tq0RK0bfAdqxs3U"
+                        },
+                        {
+                            "artists": [
+                                {
+                                    "external_urls": {
+                                        "spotify": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+                                    },
+                                    "href": "https://api.spotify.com/v1/artists/79hrYiudVcFyyxyJW0ipTy",
+                                    "id": "79hrYiudVcFyyxyJW0ipTy",
+                                    "name": "The Paper Kites",
+                                    "type": "artist",
+                                    "uri": "spotify:artist:79hrYiudVcFyyxyJW0ipTy"
+                                }
+                            ],
+                            "available_markets": [],
+                            "disc_number": 1,
+                            "duration_ms": 373866,
+                            "explicit": false,
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/track/27lrSXSK5taLqkPIa57foD"
+                            },
+                            "href": "https://api.spotify.com/v1/tracks/27lrSXSK5taLqkPIa57foD",
+                            "id": "27lrSXSK5taLqkPIa57foD",
+                            "is_local": false,
+                            "name": "Too Late",
+                            "preview_url": null,
+                            "track_number": 10,
+                            "type": "track",
+                            "uri": "spotify:track:27lrSXSK5taLqkPIa57foD"
+                        }
+                    ],
+                    "limit": 50,
+                    "next": null,
+                    "offset": 0,
+                    "previous": null,
+                    "total": 10
+                },
+                "type": "album",
+                "uri": "spotify:album:6WyFFJa3rKOeyAfIrDTYVC"
+            }
+        }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 5
+}

@@ -1,0 +1,35 @@
+h1 {
+    margin: 0;
+}
+
+.main-body {
+    width: 100%;
+    height: 100%;
+}
+
+.body-content {
+    width: 900px;
+    margin: 0 auto;
+    background: #eeeeee;
+}
+
+.content-box {
+}
+
+.submit_button {
+    width: 150px;
+    background-color: #ffeeff;
+    clear: both;
+    padding: 5px;
+    display: block;
+    border: 3px solid #000;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.padding-bottom-25 {
+    padding: 0 0 25px 0;
+}

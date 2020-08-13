@@ -1,0 +1,4 @@
+1. scrape most popular songs on spotify
+2. look into music collection for tags
+3. history in spotify
+4. scrape album data. get artwork. do avg on img colour. Will have to use hex. rainbow order
